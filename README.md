@@ -7,3 +7,12 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
+
+Visuals Representation:
+
+![download](https://github.com/user-attachments/assets/aa142b28-a2fe-4349-846e-48467b954170)
+
+
+![download](https://github.com/user-attachments/assets/20da0d80-fd2d-42a8-a5a4-f0837b62513c)
+
+![download](https://github.com/user-attachments/assets/39a34cc6-702e-41d5-b596-1afb251e1ee7)
